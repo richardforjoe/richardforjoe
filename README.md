@@ -1,16 +1,27 @@
-### Hi there 👋
+const Richard_Forjoe = {
+            pronouns: "He" | "Him",
+            learning: "I am learning TypeScript",
+            code: ["Javascript", "Typescript", "Java", "CSS"],
+            askMeAbout: ["Test Advocate", "tech", "Context Tester", "Automation", "photography"],
+            domain_experience: ["Mulesoft", "Oracle webcentre sites", "B Billing & Payments", "Oracle Document management", "Credit Account Information Sharing (CAIS)", "ERP", "Web Services", "Contact Centre","Infrastructure/Transitions"]
+            industry_experience: ["Central Government", "Local government", "Telecoms", "Utilities", "Non-profit", "Financial services", "Media & Broadcasting"]
+            technologies: {
+                Mulesoft: ["Munit"],
+                frontEnd: {
+                    js: ["Vue", "Nuxt"],
+                    css: ["materialize", "vuetify", "bootstrap"]
+                },
+                backEnd: {
+                    js-ts: ["node", "express"],
+                    Webservice: ["GraphQL", "REST", "SOAP"],
+                    Mulesoft: ["RAML", "Munit"]
+                },
+                devOps: ["AWS", "Docker🐳"],
+                databases: ["oracle","mongo", "MySql", "sqlite"],
+                misc: ["Jest", "selenium", "Cypress"]
+            },
+            architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+            currentProject: "I am doing all things testing for Sky Q Sky Sports app"
+        };
 
-<!--
-**richardforjoe/richardforjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
