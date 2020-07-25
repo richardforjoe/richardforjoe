@@ -1,4 +1,4 @@
-(https://pbs.twimg.com/profile_banners/31490136/1572012564/1500x500)
+[(https://pbs.twimg.com/profile_banners/31490136/1572012564/1500x500)]
 
 I work at [Sky](https://www.sky.com/) as a Senior Test Engineer
 
